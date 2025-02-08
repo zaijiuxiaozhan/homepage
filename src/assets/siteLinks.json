@@ -2,17 +2,17 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "http://zaijiuxiaozhan.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "数字人",
+    "link": "https://music.imsyy.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
   },
   {
     "icon": "Compass",
@@ -27,11 +27,6 @@
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://daily-hot-tawny.vercel.app/"
   }
 ]
