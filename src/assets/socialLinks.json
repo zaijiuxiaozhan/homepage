@@ -3,36 +3,30 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "url": "https://github.com/zaijiuxiaozhan"
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "name": "知乎",
+    "icon": "/images/icon/zhihu.png",
+    "tip": "写写回答",
+    "url": "https://www.zhihu.com/people/sugar-reporter"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "url": "https://wpa.qq.com/msgrd?v=3&uin=2765144943&site=qq&menu=yes"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "qichangliu7@163.com"
   },
   {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
+    "name": "微信",
+    "icon": "/images/icon/weixin.png",
     "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "http://121.40.47.91/wp-content/uploads/2025/02/1738992014-921738991859_.pic_.jpg"
   }
 ]
